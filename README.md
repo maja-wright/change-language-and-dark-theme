@@ -1,3 +1,6 @@
+![change language and dark theme](https://user-images.githubusercontent.com/67807290/155832814-976ba93a-8816-48cf-8df6-d4e9c0b64e5a.jpg)
+![change language and dark theme - french](https://user-images.githubusercontent.com/67807290/155832815-749a980d-ee8d-45a2-bb65-39d66d455d72.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
